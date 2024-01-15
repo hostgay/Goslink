@@ -1,6 +1,9 @@
 
 public class Main {
     public static void main(String[] args) {
+        parameters();
+    }
+    public static void parameters(){
         test(25, 15);
         test(18, 25);
         test(50, 5);
